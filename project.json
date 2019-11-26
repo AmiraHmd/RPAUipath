@@ -1,6 +1,6 @@
 {
-  "name": "Excelproject",
-  "description": "Excel example",
+  "name": "Selectorexamp",
+  "description": "Selectors example ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.5.4]",
